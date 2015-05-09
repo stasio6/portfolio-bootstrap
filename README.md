@@ -1,0 +1,3 @@
+# portfolio-bootstrap
+Stanislaw Strzlecki - project no 1
+...
