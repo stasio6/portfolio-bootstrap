@@ -37,6 +37,14 @@
 .proj1, .proj2, .proj3, .logo, .middle{
 	padding: 5px;
 }
+.middle{
+	margin-top: 20px;
+}
+.tekst{
+	margin-top: 20px;
+	width: 390px;
+	text-align: justify;
+}
 a
 {
 	font-variant: normal;
@@ -54,7 +62,7 @@ h1
 }
 h3
 {
-	font-size: 40px;
+	font-size: 25px;
 }
 h4
 {
@@ -80,10 +88,11 @@ button, a
 }
 .text-thin
 {
-	font-weight: 100;
+	font-weight: 300;
 }
 .text-grey
 {
 	color: #BCBBBB;
 	font-weight: bold;
+	padding: 5px;
 }
