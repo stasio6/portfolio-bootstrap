@@ -34,6 +34,9 @@
 		flex-wrap: wrap;
 	}
 }*/
+.proj1, .proj2, .proj3, .logo, .middle{
+	padding: 5px;
+}
 a
 {
 	font-variant: normal;
