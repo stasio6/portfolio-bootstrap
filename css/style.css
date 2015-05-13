@@ -6,93 +6,79 @@
 		display: none;
 	}
 }
-/*@media screen and (max-width: 1000px) and (min-width: 700px){
-	/*.proj1{
-		width: 50%;
-		/*margin: auto;
-	}
-	.proj2{
-		width: 50%;
-		/*margin: auto;
-	}
-	.proj3{
-		width: 100%;
-		max-width: 320px;
-		margin: auto;
-	}
-	.proj1{
-		width: 50%;
-	}
-	.proj2{
-		width: 50%;
-	}
-	.proj3{
-		width: 100%;
-	}
-	.rzad{
-		display: flex;
-		flex-wrap: wrap;
-	}
-}*/
+
 .proj1, .proj2, .proj3, .logo, .middle{
 	padding: 5px;
 }
+
 .middle{
 	margin-top: 20px;
 }
+
 .tekst{
 	margin-top: 20px;
 	width: 390px;
 	text-align: justify;
 }
+
 a
 {
 	font-variant: normal;
 	color: #747704;
 }
+
 body
 {
 	font-family: 'Lato', sans-serif;
 	font-weight: 400;
 	color: #747704;
 }
+
 h1
 {
 	font-size: 65px;
 }
+
 h3
 {
 	font-size: 25px;
 }
+
 h4
 {
 	font-size: 20px;
 }
+
 a
 {
 	font-size: 20px;
 }
+
 hr
 {
 	height: 3px;
-	background-color: #BCBBBB
+	background-color: #bcbbbb;
 }
+
 img, object, video
 {
 	max-width: 100%;
 }
+
 button, a
 {
 	min-width: 48px;
 	min-height: 48px;
 }
+
 .text-thin
 {
 	font-weight: 300;
 }
+
 .text-grey
 {
-	color: #BCBBBB;
+	color: #bcbbbb;
 	font-weight: bold;
 	padding: 5px;
 }
