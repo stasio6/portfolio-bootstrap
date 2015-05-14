@@ -15,6 +15,10 @@
 	margin-top: 20px;
 }
 
+.col-md-12 {
+	padding: 0px;
+}
+
 .tekst {
 	margin-top: 20px;
 	width: 390px;
