@@ -1,84 +1,76 @@
-@media screen and (max-width: 800px){
-	.title{
+@media screen and (max-width: 800px) {
+	.title {
 		font-size: 40px;
 	}
-	.logo{
+	.logo {
 		display: none;
 	}
 }
 
-.proj1, .proj2, .proj3, .logo, .middle{
+.proj1, .proj2, .proj3, .logo, .middle {
 	padding: 5px;
 }
 
-.middle{
+.middle {
 	margin-top: 20px;
 }
 
-.tekst{
+.tekst {
 	margin-top: 20px;
 	width: 390px;
 	text-align: justify;
 }
 
-a
-{
+a {
 	font-variant: normal;
 	color: #747704;
 }
 
-body
-{
+body {
 	font-family: 'Lato', sans-serif;
 	font-weight: 400;
 	color: #747704;
 }
 
-h1
-{
+h1 {
 	font-size: 65px;
 }
 
-h3
-{
+h3 {
 	font-size: 25px;
 }
 
-h4
-{
+h4 {
 	font-size: 20px;
 }
 
-a
-{
+a {
 	font-size: 20px;
 }
 
-hr
-{
+hr {
 	height: 3px;
 	background-color: #bcbbbb;
 }
 
-img, object, video
-{
+img, object, video {
 	max-width: 100%;
 }
 
-button, a
-{
+button, a {
 	min-width: 48px;
 	min-height: 48px;
 }
 
-.text-thin
-{
+.text-thin {
 	font-weight: 300;
 }
 
-.text-grey
-{
+.text-grey {
 	color: #bcbbbb;
 	font-weight: bold;
 	padding: 5px;
+}
+.logo {
+	margin-top: 10px;
 }
